@@ -2,7 +2,7 @@
 
 *Author: Mark Bauer*
 
-*Date Created: December 7, 2019*__
+*Date Created: December 7, 2019*
 *Date Modified: December 16, 2019*
 
 # Introduction 
