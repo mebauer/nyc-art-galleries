@@ -1,9 +1,10 @@
-# Exploring Art Galleries by Neighborhood in Manhattan using Python
+# Exploring Art Galleries in Manhattan using Python
 
 *Author: Mark Bauer*
 
-*Date Created: December 7, 2019
-*Date Modified: December 16, 2019
+*Date Created: December 7, 2019*
+
+*Date Modified: December 16, 2019*
 
 # Introduction 
 
@@ -11,7 +12,7 @@ This is my first ever open source project using New York City's Open Data Portal
 
 Besides feeling inspired by art, I will focus on guiding people through the NYC Open Data Portal and display how to perform an exploratory data analysis (EDA) project using the Python programming language. I will also create maps and visualizations solely with Python. 
 
-*Why only Manhattan?* I originally analyzed all five boroughs, but Manhattan had an overwhelming number of galleries. Thus, for simplicity, this analysis only focuses on neighborhoods in Manhattan.
+***Why only Manhattan?*** I originally analyzed all five boroughs, but Manhattan had an overwhelming number of galleries. Thus, for simplicity, this analysis only focuses on neighborhoods in Manhattan.
 
 I am new to the open source community, so feedback is very welcome! Thank you for taking the time to read by notebook.
 
