@@ -14,30 +14,28 @@ Besides feeling inspired by art, I will focus on guiding people through the NYC 
 
 ***Why only Manhattan?*** I originally analyzed all five boroughs, but Manhattan had an overwhelming number of galleries. Thus, for simplicity, this analysis only focuses on neighborhoods in Manhattan.
 
-I am new to the open source community, so feedback is very welcome! Thank you for taking the time to read by notebook.
+I am new to the open source community, so feedback is very welcome! Thank you for taking the time to read my notebook.
 
 
 # Results
 
 ![Sample Figure](figures/galleries-by-neighborhood-manhattan-map.png)
-## Figure 1. Map of Number of Galleries by Neighborhood in Manhattan
-
+**Figure 1. Map of Number of Galleries by Neighborhood in Manhattan**
 
 ![Sample Figure](figures/galleries-per-acre-by-neighborhood-manhattan-map.png)
-## Figure 2. Map of Number of Galleries per Acre by Neighborhood in Manhattan
+**Figure 2. Map of Number of Galleries per Acre by Neighborhood in Manhattan**
 
 ![Sample Figure](figures/count-and-area-by-neighborhood-manhattan-maps.png)
-## Figure 3. Maps of Count of Number of Galleries and per Acre by Neighborhood in Manhattan
+**Figure 3. Maps of Count of Number of Galleries and per Acre by Neighborhood in Manhattan**
 
 ![Sample Figure](figures/galleries-by-neighborhood-manhattan-bar.png)
-## Figure 4. Number of Galleries by Neighborhood in Manhattan
+**Figure 4. Number of Galleries by Neighborhood in Manhattan**
 
 ![Sample Figure](figures/galleries-by-neighborhood-manhattan-bar-top10.png)
-## Figure 5. Top 10 Neighborhoods by Number of Galleries in Manhattan
+**Figure 5. Top 10 Neighborhoods by Number of Galleries in Manhattan**
 
 ![Sample Figure](figures/galleries-per-acre-by-neighborhood-manhattan-bar.png)
-## Figure 6. Number of Galleries per Acre by Neighborhood in Manhattan
+**Figure 6. Number of Galleries per Acre by Neighborhood in Manhattan**
 
 ![Sample Figure](figures/galleries-per-acre-by-neighborhood-manhattan-bar-top10.png)
-
-## Figure 7. Top 10 Neighborhoods by Number of Galleries per Acre in Manhattan
+**Figure 7. Top 10 Neighborhoods by Number of Galleries per Acre in Manhattan**
