@@ -14,6 +14,8 @@ Besides feeling inspired by art, I will focus on guiding people through the NYC 
 
 ***Why only Manhattan?*** I originally analyzed all five boroughs, but Manhattan had an overwhelming number of galleries. Thus, for simplicity, this analysis only focuses on neighborhoods in Manhattan.
 
+You can find the raw code located in my notebook titled **nyc-art-galleries.ipynb** [here](https://github.com/mebauer/nyc-art-galleries/blob/master/nyc-art-galleries.ipynb)
+
 I am new to the open source community, so feedback is very welcome! Thank you for taking the time to read my notebook.
 
 
